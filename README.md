@@ -15,6 +15,7 @@ implementation 'com.github.Foysalofficial:tags-layout:2.0'
 ```
 Update Android Studio
 
+```
 dependencies {
 
 implementation ("com.github.Foysalofficial:tags-layout:2.0")
